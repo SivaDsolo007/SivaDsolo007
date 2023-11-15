@@ -6,7 +6,7 @@ Hi there 👋<br>🔭 I’m currently working on Real Time Bus Tracking System<b
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_sivabharath_?igshid=MzMyNGUyNmU2YQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siva-bharath-6b1a95200)
 <a href="https://medium.com/@bernardbad">
-    <img src="https://www.freepik.com/icon/world-wide-web_6472039" alt="Medium"/>
+   <button class="btn"><i class="fa fa-home"></i> Home</button>
   </a>
 
 # 💻 Tech Stack:
