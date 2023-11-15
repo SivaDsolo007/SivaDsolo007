@@ -1,4 +1,5 @@
 # 💫 About Me:
+Tech Enthusiast | Smart India Hackathon 2022 - Winner | TNSI Award 2021 - Winner Talks about #techblog, #innovation, #webdevelopment, #businessanalysis, #appdevelopment
 Hi there 👋<br>🔭 I’m currently working on Real Time Bus Tracking System<br>🌱 I’m currently learning JSON & Laravel<br>👯 I’m looking to collaborate on Native Application Development<br>🤔 I’m looking for help in understanding Test Driven Development for App Development<br>💬 Ask me about Software Application Development, Open Source, Technical Writing<br>📫 How to reach me: sivadsolo007@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I dance like a child
 
 
